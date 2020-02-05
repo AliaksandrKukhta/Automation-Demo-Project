@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Users>
+    <User id="6">
+        <name>jarosh</name>
+        <login>jar</login>
+        <password>raj</password>
+        <e_mail>jar1990@yandex.ru</e_mail>
+    </User>
+    <User id="7">
+        <name>kashirov</name>
+        <login>kvk</login>
+        <password>kvk</password>
+        <e_mail>kvk@tut.by</e_mail>
+    </User>
+    <User id="8">
+        <name>revt</name>
+        <login>revt</login>
+        <password>revt</password>
+        <e_mail>revtkk@mail.ru</e_mail>
+    </User>
+</Users>
+
+

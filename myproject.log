@@ -1,0 +1,785 @@
+15:49:49,003 TRACE main LoginPage:loginAsCorrectUser:40 - goto main_URL
+16:51:22,775 TRACE main LoginPage:loginAsCorrectUser:42 - goto main_URL
+21:27:04,647  INFO main MailTest:beforeTest:60 - Instance mail
+21:27:10,786  INFO main DataBase:fillingInUser:21 - Connect to data
+21:27:10,842  INFO main MailTest:beforeTest:63 - Filled in user 'Kukhta' fields
+21:27:10,851  INFO main DataBase:fillingInUser:21 - Connect to data
+21:27:10,855  INFO main MailTest:beforeTest:65 - Filled in user 'Sidorov' fields
+21:27:10,856 TRACE main MailTest:beforeTest:66 - Enter Login
+21:27:20,290 TRACE main MailTest:beforeTest:70 - Enter Password
+21:29:25,881  INFO main MailTest:beforeTest:60 - Instance mail
+21:29:26,176  INFO main DataBase:fillingInUser:21 - Connect to data
+21:29:26,199  INFO main MailTest:beforeTest:63 - Filled in user 'Kukhta' fields
+21:29:26,205  INFO main DataBase:fillingInUser:21 - Connect to data
+21:29:26,209  INFO main MailTest:beforeTest:65 - Filled in user 'Sidorov' fields
+21:29:26,210 TRACE main MailTest:beforeTest:66 - Enter Login
+21:29:36,193 TRACE main MailTest:beforeTest:70 - Enter Password
+21:31:19,144  INFO main MailTest:beforeTest:60 - Instance mail
+21:31:19,451  INFO main DataBase:fillingInUser:21 - Connect to data
+21:31:19,476  INFO main MailTest:beforeTest:63 - Filled in user 'Kukhta' fields
+21:31:19,480  INFO main DataBase:fillingInUser:21 - Connect to data
+21:31:19,483  INFO main MailTest:beforeTest:65 - Filled in user 'Sidorov' fields
+21:31:19,483 TRACE main MailTest:beforeTest:66 - Enter Login
+21:31:35,163 TRACE main MailTest:beforeTest:70 - Enter Password
+21:34:33,318  INFO main MailTest:beforeTest:60 - Instance mail
+21:34:33,802  INFO main DataBase:fillingInUser:21 - Connect to data
+21:34:33,847  INFO main MailTest:beforeTest:63 - Filled in user 'Kukhta' fields
+21:34:33,854  INFO main DataBase:fillingInUser:21 - Connect to data
+21:34:33,857  INFO main MailTest:beforeTest:65 - Filled in user 'Sidorov' fields
+21:34:33,858 TRACE main MailTest:beforeTest:66 - Enter Login
+21:34:46,975 TRACE main MailTest:beforeTest:70 - Enter Password
+21:39:02,312  INFO main MailTest:beforeTest:60 - Instance mail
+21:39:03,020  INFO main DataBase:fillingInUser:21 - Connect to data
+21:39:03,062  INFO main MailTest:beforeTest:63 - Filled in user 'Kukhta' fields
+21:39:03,069  INFO main DataBase:fillingInUser:21 - Connect to data
+21:39:03,073  INFO main MailTest:beforeTest:65 - Filled in user 'Sidorov' fields
+21:39:03,074 TRACE main MailTest:beforeTest:66 - Enter Login
+21:39:14,476 TRACE main MailTest:beforeTest:70 - Enter Password
+21:43:23,872  INFO main MailTest:beforeTest:60 - Instance mail
+21:43:24,192  INFO main DataBase:fillingInUser:21 - Connect to data
+21:43:24,229  INFO main MailTest:beforeTest:63 - Filled in user 'Kukhta' fields
+21:43:24,236  INFO main DataBase:fillingInUser:21 - Connect to data
+21:43:24,237  INFO main MailTest:beforeTest:65 - Filled in user 'Sidorov' fields
+21:43:24,238 TRACE main MailTest:beforeTest:66 - Enter Login
+21:43:34,337 TRACE main MailTest:beforeTest:70 - Enter Password
+21:52:12,985  INFO main MailTest:beforeTest:60 - Instance mail
+21:52:13,420  INFO main DataBase:fillingInUser:21 - Connect to data
+21:52:13,458  INFO main MailTest:beforeTest:63 - Filled in user 'Kukhta' fields
+21:52:13,466  INFO main DataBase:fillingInUser:21 - Connect to data
+21:52:13,470  INFO main MailTest:beforeTest:65 - Filled in user 'Sidorov' fields
+21:52:13,470 TRACE main MailTest:beforeTest:66 - Enter Login
+21:52:27,660 TRACE main MailTest:beforeTest:70 - Enter Password
+08:36:17,950  INFO main MailTest:beforeTest:59 - Instance mail
+08:36:18,497  INFO main DataBase:fillingInUser:21 - Connect to data
+08:36:18,572  INFO main MailTest:beforeTest:62 - Filled in user 'Kukhta' fields
+08:36:18,582  INFO main DataBase:fillingInUser:21 - Connect to data
+08:36:18,586  INFO main MailTest:beforeTest:64 - Filled in user 'Sidorov' fields
+08:36:18,586 TRACE main MailTest:beforeTest:65 - Enter Login
+08:36:19,189 TRACE main MailTest:beforeTest:68 - Enter Password
+08:39:31,486  INFO main MailTest:beforeTest:59 - Instance mail
+08:39:36,829  INFO main DataBase:fillingInUser:21 - Connect to data
+08:39:37,097  INFO main MailTest:beforeTest:62 - Filled in user 'Kukhta' fields
+08:39:37,131  INFO main DataBase:fillingInUser:21 - Connect to data
+08:39:37,176  INFO main MailTest:beforeTest:64 - Filled in user 'Sidorov' fields
+08:39:37,177 TRACE main MailTest:beforeTest:65 - Enter Login
+08:39:37,958 TRACE main MailTest:beforeTest:68 - Enter Password
+08:40:58,101  INFO main MailTest:beforeTest:59 - Instance mail
+08:40:58,654  INFO main DataBase:fillingInUser:21 - Connect to data
+08:40:58,695  INFO main MailTest:beforeTest:62 - Filled in user 'Kukhta' fields
+08:40:58,703  INFO main DataBase:fillingInUser:21 - Connect to data
+08:40:58,705  INFO main MailTest:beforeTest:64 - Filled in user 'Sidorov' fields
+08:40:58,706 TRACE main MailTest:beforeTest:65 - Enter Login
+08:40:59,316 TRACE main MailTest:beforeTest:68 - Enter Password
+09:01:15,910  INFO main MailTest:beforeTest:65 - Instance mail
+09:01:16,754  INFO main DataBase:fillingInUser:21 - Connect to data
+09:01:16,814  INFO main MailTest:beforeTest:68 - Filled in user 'Kukhta' fields
+09:01:16,823  INFO main DataBase:fillingInUser:21 - Connect to data
+09:01:16,826  INFO main MailTest:beforeTest:70 - Filled in user 'Sidorov' fields
+09:01:16,827 TRACE main MailTest:beforeTest:71 - Enter Login
+09:01:17,445 TRACE main MailTest:beforeTest:74 - Enter Password
+09:01:57,245  INFO main MailTest:beforeTest:65 - Instance mail
+09:01:58,289  INFO main DataBase:fillingInUser:21 - Connect to data
+09:01:58,349  INFO main MailTest:beforeTest:68 - Filled in user 'Kukhta' fields
+09:01:58,360  INFO main DataBase:fillingInUser:21 - Connect to data
+09:01:58,365  INFO main MailTest:beforeTest:70 - Filled in user 'Sidorov' fields
+09:01:58,366 TRACE main MailTest:beforeTest:71 - Enter Login
+09:01:59,125 TRACE main MailTest:beforeTest:74 - Enter Password
+11:18:14,250  INFO main MailTest:beforeTest:65 - Instance mail
+11:18:14,725  INFO main DataBase:fillingInUser:21 - Connect to data
+11:18:14,769  INFO main MailTest:beforeTest:68 - Filled in user 'Kukhta' fields
+11:18:14,776  INFO main DataBase:fillingInUser:21 - Connect to data
+11:18:14,779  INFO main MailTest:beforeTest:70 - Filled in user 'Sidorov' fields
+11:18:14,779 TRACE main MailTest:beforeTest:71 - Enter Login
+11:18:15,499 TRACE main MailTest:beforeTest:74 - Enter Password
+11:20:27,725  INFO main MailTest:beforeTest:65 - Instance mail
+11:20:28,299  INFO main DataBase:fillingInUser:21 - Connect to data
+11:20:28,333  INFO main MailTest:beforeTest:68 - Filled in user 'Kukhta' fields
+11:20:28,341  INFO main DataBase:fillingInUser:21 - Connect to data
+11:20:28,343  INFO main MailTest:beforeTest:70 - Filled in user 'Sidorov' fields
+11:20:28,344 TRACE main MailTest:beforeTest:71 - Enter Login
+11:20:28,919 TRACE main MailTest:beforeTest:74 - Enter Password
+11:21:57,937  INFO main MailTest:beforeTest:65 - Instance mail
+11:21:58,353  INFO main DataBase:fillingInUser:21 - Connect to data
+11:21:58,378  INFO main MailTest:beforeTest:68 - Filled in user 'Kukhta' fields
+11:21:58,382  INFO main DataBase:fillingInUser:21 - Connect to data
+11:21:58,384  INFO main MailTest:beforeTest:70 - Filled in user 'Sidorov' fields
+11:21:58,384 TRACE main MailTest:beforeTest:71 - Enter Login
+11:21:58,920 TRACE main MailTest:beforeTest:74 - Enter Password
+11:24:48,652  INFO main MailTest:beforeTest:65 - Instance mail
+11:24:49,092  INFO main DataBase:fillingInUser:21 - Connect to data
+11:24:49,128  INFO main MailTest:beforeTest:68 - Filled in user 'Kukhta' fields
+11:24:49,135  INFO main DataBase:fillingInUser:21 - Connect to data
+11:24:49,137  INFO main MailTest:beforeTest:70 - Filled in user 'Sidorov' fields
+11:24:49,137 TRACE main MailTest:beforeTest:71 - Enter Login
+11:24:49,737 TRACE main MailTest:beforeTest:74 - Enter Password
+11:26:45,102  INFO main MailTest:beforeTest:65 - Instance mail
+11:26:47,169  INFO main DataBase:fillingInUser:21 - Connect to data
+11:26:47,200  INFO main MailTest:beforeTest:68 - Filled in user 'Kukhta' fields
+11:26:47,206  INFO main DataBase:fillingInUser:21 - Connect to data
+11:26:47,209  INFO main MailTest:beforeTest:70 - Filled in user 'Sidorov' fields
+11:26:47,210 TRACE main MailTest:beforeTest:71 - Enter Login
+11:26:47,588 TRACE main MailTest:beforeTest:74 - Enter Password
+11:28:47,525  INFO main MailTest:beforeTest:65 - Instance mail
+11:28:47,837  INFO main DataBase:fillingInUser:21 - Connect to data
+11:28:47,861  INFO main MailTest:beforeTest:68 - Filled in user 'Kukhta' fields
+11:28:47,866  INFO main DataBase:fillingInUser:21 - Connect to data
+11:28:47,868  INFO main MailTest:beforeTest:70 - Filled in user 'Sidorov' fields
+11:28:47,868 TRACE main MailTest:beforeTest:71 - Enter Login
+11:28:48,469 TRACE main MailTest:beforeTest:74 - Enter Password
+12:06:26,365  INFO main MailTest:beforeTest:65 - Instance mail
+12:06:26,991  INFO main DataBase:fillingInUser:21 - Connect to data
+12:06:27,027  INFO main MailTest:beforeTest:68 - Filled in user 'Kukhta' fields
+12:06:27,031  INFO main DataBase:fillingInUser:21 - Connect to data
+12:06:27,035  INFO main MailTest:beforeTest:70 - Filled in user 'Sidorov' fields
+12:06:27,035 TRACE main MailTest:beforeTest:71 - Enter Login
+12:07:05,162  INFO main MailTest:beforeTest:65 - Instance mail
+12:07:05,678  INFO main DataBase:fillingInUser:21 - Connect to data
+12:07:05,710  INFO main MailTest:beforeTest:68 - Filled in user 'Kukhta' fields
+12:07:05,718  INFO main DataBase:fillingInUser:21 - Connect to data
+12:07:05,720  INFO main MailTest:beforeTest:70 - Filled in user 'Sidorov' fields
+12:07:05,720 TRACE main MailTest:beforeTest:71 - Enter Login
+12:07:06,588 TRACE main MailTest:beforeTest:74 - Enter Password
+12:08:31,163  INFO main MailTest:beforeTest:65 - Instance mail
+12:08:31,898  INFO main DataBase:fillingInUser:21 - Connect to data
+12:08:31,948  INFO main MailTest:beforeTest:68 - Filled in user 'Kukhta' fields
+12:08:31,958  INFO main DataBase:fillingInUser:21 - Connect to data
+12:08:31,961  INFO main MailTest:beforeTest:70 - Filled in user 'Sidorov' fields
+12:08:31,962 TRACE main MailTest:beforeTest:71 - Enter Login
+12:08:32,500 TRACE main MailTest:beforeTest:74 - Enter Password
+12:09:31,277  INFO main MailTest:beforeTest:65 - Instance mail
+12:09:32,686  INFO main DataBase:fillingInUser:21 - Connect to data
+12:09:32,724  INFO main MailTest:beforeTest:68 - Filled in user 'Kukhta' fields
+12:09:32,732  INFO main DataBase:fillingInUser:21 - Connect to data
+12:09:32,736  INFO main MailTest:beforeTest:70 - Filled in user 'Sidorov' fields
+12:09:32,736 TRACE main MailTest:beforeTest:71 - Enter Login
+12:09:33,904 TRACE main MailTest:beforeTest:74 - Enter Password
+12:11:44,197  INFO main MailTest:beforeTest:65 - Instance mail
+12:11:44,815  INFO main DataBase:fillingInUser:21 - Connect to data
+12:11:44,857  INFO main MailTest:beforeTest:68 - Filled in user 'Kukhta' fields
+12:11:44,864  INFO main DataBase:fillingInUser:21 - Connect to data
+12:11:44,866  INFO main MailTest:beforeTest:70 - Filled in user 'Sidorov' fields
+12:11:44,866 TRACE main MailTest:beforeTest:71 - Enter Login
+12:11:45,423 TRACE main MailTest:beforeTest:74 - Enter Password
+12:12:44,276  INFO main MailTest:beforeTest:65 - Instance mail
+12:12:44,707  INFO main DataBase:fillingInUser:21 - Connect to data
+12:12:44,736  INFO main MailTest:beforeTest:68 - Filled in user 'Kukhta' fields
+12:12:44,744  INFO main DataBase:fillingInUser:21 - Connect to data
+12:12:44,746  INFO main MailTest:beforeTest:70 - Filled in user 'Sidorov' fields
+12:12:44,746 TRACE main MailTest:beforeTest:71 - Enter Login
+12:12:45,250 TRACE main MailTest:beforeTest:74 - Enter Password
+20:07:20,808  INFO main MailTest:beforeTest:65 - Instance mail
+20:07:21,446  INFO main DataBase:fillingInUser:21 - Connect to data
+20:07:21,521  INFO main MailTest:beforeTest:68 - Filled in user 'Kukhta' fields
+20:07:21,581  INFO main DataBase:fillingInUser:21 - Connect to data
+20:07:21,589  INFO main MailTest:beforeTest:70 - Filled in user 'Sidorov' fields
+20:07:21,589 TRACE main MailTest:beforeTest:71 - Enter Login
+20:07:22,347 TRACE main MailTest:beforeTest:74 - Enter Password
+09:25:28,018 TRACE main Mail:loginAsCorrectUser:42 - goto main_URL
+09:27:32,091 TRACE main Mail:loginAsCorrectUser:42 - goto main_URL
+09:28:52,648 TRACE main Mail:loginAsCorrectUser:42 - goto main_URL
+09:32:06,683 TRACE main Mail:loginAsCorrectUser:43 - goto main_URL
+10:26:14,045 TRACE main Mail:loginAsCorrectUser:42 - goto main_URL
+10:31:10,902 TRACE main Mail:loginAsCorrectUser:42 - goto main_URL
+10:38:26,603 TRACE main Mail:loginAsCorrectUser:42 - goto main_URL
+10:39:38,451 TRACE main Mail:loginAsCorrectUser:42 - goto main_URL
+10:41:52,832 TRACE main Mail:loginAsCorrectUser:42 - goto main_URL
+10:44:02,919 TRACE main Mail:loginAsCorrectUser:42 - goto main_URL
+10:45:49,469 TRACE main Mail:loginAsCorrectUser:44 - goto main_URL
+10:46:52,459 TRACE main Mail:loginAsCorrectUser:44 - goto main_URL
+10:50:08,132 TRACE main Mail:loginAsCorrectUser:44 - goto main_URL
+11:11:20,264 TRACE main Mail:loginAsCorrectUser:49 - goto main_URL
+11:12:39,158 TRACE main Mail:loginAsCorrectUser:48 - goto main_URL
+11:23:18,212  INFO main MailTest:beforeTest:65 - Instance mail
+11:23:18,269 ERROR main DataBase:fillingInUser:32 - No database connection
+11:23:18,272  INFO main MailTest:beforeTest:68 - Filled in user 'Kukhta' fields
+11:23:18,273 ERROR main DataBase:fillingInUser:32 - No database connection
+11:23:18,274  INFO main MailTest:beforeTest:70 - Filled in user 'Sidorov' fields
+11:23:18,275 TRACE main MailTest:beforeTest:71 - Enter Login
+11:26:02,671  INFO main MailTest:beforeTest:65 - Instance mail
+11:26:06,616 ERROR main DataBase:fillingInUser:32 - No database connection
+11:26:06,623  INFO main MailTest:beforeTest:68 - Filled in user 'Kukhta' fields
+11:26:06,623 ERROR main DataBase:fillingInUser:32 - No database connection
+11:26:06,626  INFO main MailTest:beforeTest:70 - Filled in user 'Sidorov' fields
+11:26:06,626 TRACE main MailTest:beforeTest:71 - Enter Login
+11:27:36,205  INFO main MailTest:beforeTest:65 - Instance mail
+11:27:36,273 ERROR main DataBase:fillingInUser:32 - No database connection
+11:27:36,274  INFO main MailTest:beforeTest:68 - Filled in user 'Kukhta' fields
+11:27:36,274 ERROR main DataBase:fillingInUser:32 - No database connection
+11:27:36,276  INFO main MailTest:beforeTest:70 - Filled in user 'Sidorov' fields
+11:27:36,276 TRACE main MailTest:beforeTest:71 - Enter Login
+11:28:24,965  INFO main MailTest:beforeTest:65 - Instance mail
+11:28:30,902 ERROR main DataBase:fillingInUser:32 - No database connection
+11:28:40,369  INFO main MailTest:beforeTest:68 - Filled in user 'Kukhta' fields
+11:28:40,370 ERROR main DataBase:fillingInUser:32 - No database connection
+11:28:40,373  INFO main MailTest:beforeTest:70 - Filled in user 'Sidorov' fields
+11:28:40,374 TRACE main MailTest:beforeTest:71 - Enter Login
+11:32:27,630  INFO main MailTest:beforeTest:65 - Instance mail
+11:32:27,691 ERROR main DataBase:fillingInUser:32 - No database connection
+11:32:27,695  INFO main MailTest:beforeTest:68 - Filled in user 'Kukhta' fields
+11:32:27,695 ERROR main DataBase:fillingInUser:32 - No database connection
+11:32:27,697  INFO main MailTest:beforeTest:70 - Filled in user 'Sidorov' fields
+11:32:27,697 TRACE main MailTest:beforeTest:71 - Enter Login
+11:33:33,446  INFO main MailTest:beforeTest:59 - Instance mail
+11:33:34,035 ERROR main DataBase:fillingInUser:32 - No database connection
+11:33:34,038  INFO main MailTest:beforeTest:62 - Filled in user 'Kukhta' fields
+11:33:34,038 ERROR main DataBase:fillingInUser:32 - No database connection
+11:33:34,040  INFO main MailTest:beforeTest:64 - Filled in user 'Sidorov' fields
+11:33:34,041 TRACE main MailTest:beforeTest:65 - Enter Login
+11:35:09,776  INFO main MailTest:beforeTest:59 - Instance mail
+11:36:45,129 ERROR main DataBase:fillingInUser:32 - No database connection
+11:36:45,134  INFO main MailTest:beforeTest:62 - Filled in user 'Kukhta' fields
+11:36:45,134 ERROR main DataBase:fillingInUser:32 - No database connection
+11:36:45,139  INFO main MailTest:beforeTest:64 - Filled in user 'Sidorov' fields
+11:36:45,140 TRACE main MailTest:beforeTest:65 - Enter Login
+11:37:04,207  INFO main MailTest:beforeTest:59 - Instance mail
+11:37:23,503 ERROR main DataBase:fillingInUser:32 - No database connection
+11:37:23,526  INFO main MailTest:beforeTest:62 - Filled in user 'Kukhta' fields
+11:37:23,527 ERROR main DataBase:fillingInUser:32 - No database connection
+11:37:23,533  INFO main MailTest:beforeTest:64 - Filled in user 'Sidorov' fields
+11:37:23,534 TRACE main MailTest:beforeTest:65 - Enter Login
+11:39:07,737  INFO main MailTest:beforeTest:59 - Instance mail
+11:40:14,141 ERROR main DataBase:fillingInUser:32 - No database connection
+11:40:14,151  INFO main MailTest:beforeTest:62 - Filled in user 'Kukhta' fields
+11:40:14,152 ERROR main DataBase:fillingInUser:32 - No database connection
+11:40:14,154  INFO main MailTest:beforeTest:64 - Filled in user 'Sidorov' fields
+11:40:14,154 TRACE main MailTest:beforeTest:65 - Enter Login
+11:41:46,635  INFO main MailTest:beforeTest:65 - Instance mail
+11:42:06,593 ERROR main DataBase:fillingInUser:32 - No database connection
+11:42:06,601  INFO main MailTest:beforeTest:68 - Filled in user 'Kukhta' fields
+11:42:06,602 ERROR main DataBase:fillingInUser:32 - No database connection
+11:42:06,608  INFO main MailTest:beforeTest:70 - Filled in user 'Sidorov' fields
+11:42:06,609 TRACE main MailTest:beforeTest:71 - Enter Login
+11:47:41,516  INFO main MailTest:beforeTest:65 - Instance mail
+11:47:42,045  INFO main DataBase:fillingInUser:21 - Connect to data
+11:47:42,095  INFO main MailTest:beforeTest:68 - Filled in user 'Kukhta' fields
+11:47:42,102  INFO main DataBase:fillingInUser:21 - Connect to data
+11:47:42,104  INFO main MailTest:beforeTest:70 - Filled in user 'Sidorov' fields
+11:47:42,105 TRACE main MailTest:beforeTest:71 - Enter Login
+11:47:42,683 TRACE main MailTest:beforeTest:74 - Enter Password
+11:55:22,001  INFO main MailTest:beforeTest:65 - Instance mail
+11:55:22,280  INFO main DataBase:fillingInUser:21 - Connect to data
+11:55:22,309  INFO main MailTest:beforeTest:68 - Filled in user 'Kukhta' fields
+11:55:22,314  INFO main DataBase:fillingInUser:21 - Connect to data
+11:55:22,316  INFO main MailTest:beforeTest:70 - Filled in user 'Sidorov' fields
+11:55:22,317 TRACE main MailTest:beforeTest:71 - Enter Login
+11:55:23,052 TRACE main MailTest:beforeTest:74 - Enter Password
+11:57:20,849  INFO main MailTest:beforeTest:65 - Instance mail
+11:57:21,255  INFO main DataBase:fillingInUser:21 - Connect to data
+11:57:42,924  INFO main MailTest:beforeTest:68 - Filled in user 'Kukhta' fields
+11:57:42,931  INFO main DataBase:fillingInUser:21 - Connect to data
+11:57:42,935  INFO main MailTest:beforeTest:70 - Filled in user 'Sidorov' fields
+11:57:42,935 TRACE main MailTest:beforeTest:71 - Enter Login
+11:58:00,154  INFO main MailTest:beforeTest:65 - Instance mail
+11:58:00,695  INFO main DataBase:fillingInUser:21 - Connect to data
+11:58:00,733  INFO main MailTest:beforeTest:68 - Filled in user 'Kukhta' fields
+11:58:00,738  INFO main DataBase:fillingInUser:21 - Connect to data
+11:58:00,743  INFO main MailTest:beforeTest:70 - Filled in user 'Sidorov' fields
+11:58:00,744 TRACE main MailTest:beforeTest:71 - Enter Login
+11:58:01,493 TRACE main MailTest:beforeTest:74 - Enter Password
+12:00:01,450  INFO main MailTest:beforeTest:65 - Instance mail
+12:00:02,118  INFO main DataBase:fillingInUser:21 - Connect to data
+12:00:02,169  INFO main MailTest:beforeTest:68 - Filled in user 'Kukhta' fields
+12:00:02,176  INFO main DataBase:fillingInUser:21 - Connect to data
+12:00:02,179  INFO main MailTest:beforeTest:70 - Filled in user 'Sidorov' fields
+12:00:02,179 TRACE main MailTest:beforeTest:71 - Enter Login
+12:00:03,143 TRACE main MailTest:beforeTest:74 - Enter Password
+12:01:09,653  INFO main MailTest:beforeTest:65 - Instance mail
+12:01:10,116  INFO main DataBase:fillingInUser:21 - Connect to data
+12:01:10,154  INFO main MailTest:beforeTest:68 - Filled in user 'Kukhta' fields
+12:01:10,160  INFO main DataBase:fillingInUser:21 - Connect to data
+12:01:10,163  INFO main MailTest:beforeTest:70 - Filled in user 'Sidorov' fields
+12:01:10,163 TRACE main MailTest:beforeTest:71 - Enter Login
+12:01:10,771 TRACE main MailTest:beforeTest:74 - Enter Password
+12:02:17,827  INFO main MailTest:beforeTest:65 - Instance mail
+12:02:18,505  INFO main DataBase:fillingInUser:21 - Connect to data
+12:02:18,554  INFO main MailTest:beforeTest:68 - Filled in user 'Kukhta' fields
+12:02:18,563  INFO main DataBase:fillingInUser:21 - Connect to data
+12:02:18,566  INFO main MailTest:beforeTest:70 - Filled in user 'Sidorov' fields
+12:02:18,567 TRACE main MailTest:beforeTest:71 - Enter Login
+12:02:19,379 TRACE main MailTest:beforeTest:74 - Enter Password
+12:03:03,502  INFO main MailTest:beforeTest:65 - Instance mail
+12:03:03,860  INFO main DataBase:fillingInUser:21 - Connect to data
+12:03:03,884  INFO main MailTest:beforeTest:68 - Filled in user 'Kukhta' fields
+12:03:03,889  INFO main DataBase:fillingInUser:21 - Connect to data
+12:03:03,891  INFO main MailTest:beforeTest:70 - Filled in user 'Sidorov' fields
+12:03:03,892 TRACE main MailTest:beforeTest:71 - Enter Login
+12:03:04,503 TRACE main MailTest:beforeTest:74 - Enter Password
+12:47:35,845  INFO main MailTest:beforeTest:66 - Instance mail
+12:47:36,254  INFO main DataBase:fillingInUser:21 - Connect to data
+12:47:36,291  INFO main MailTest:beforeTest:69 - Filled in user 'Kukhta' fields
+12:47:36,300  INFO main DataBase:fillingInUser:21 - Connect to data
+12:47:36,302  INFO main MailTest:beforeTest:71 - Filled in user 'Sidorov' fields
+12:47:36,303 TRACE main MailTest:beforeTest:72 - Enter Login
+12:47:36,828 TRACE main MailTest:beforeTest:75 - Enter Password
+12:54:41,913  INFO main MailTest:beforeTest:66 - Instance mail
+12:54:42,285  INFO main DataBase:fillingInUser:21 - Connect to data
+12:54:42,334  INFO main MailTest:beforeTest:69 - Filled in user 'Kukhta' fields
+12:54:42,345  INFO main DataBase:fillingInUser:21 - Connect to data
+12:54:42,347  INFO main MailTest:beforeTest:71 - Filled in user 'Sidorov' fields
+12:54:42,348 TRACE main MailTest:beforeTest:72 - Enter Login
+12:54:42,744 TRACE main MailTest:beforeTest:75 - Enter Password
+13:00:32,039  INFO main MailTest:beforeMethod:73 - Instance mail
+13:00:32,647  INFO main DataBase:fillingInUser:21 - Connect to data
+13:00:32,698  INFO main MailTest:beforeMethod:76 - Filled in user 'Kukhta' fields
+13:00:32,707  INFO main DataBase:fillingInUser:21 - Connect to data
+13:00:32,710  INFO main MailTest:beforeMethod:78 - Filled in user 'Sidorov' fields
+13:00:32,710 TRACE main MailTest:beforeMethod:79 - Enter Login
+13:00:33,177 TRACE main MailTest:beforeMethod:82 - Enter Password
+13:00:55,202  INFO main MailTest:beforeMethod:73 - Instance mail
+13:00:55,219  INFO main DataBase:fillingInUser:21 - Connect to data
+13:00:55,228  INFO main MailTest:beforeMethod:76 - Filled in user 'Kukhta' fields
+13:00:55,236  INFO main DataBase:fillingInUser:21 - Connect to data
+13:00:55,240  INFO main MailTest:beforeMethod:78 - Filled in user 'Sidorov' fields
+13:00:55,240 TRACE main MailTest:beforeMethod:79 - Enter Login
+13:00:55,702 TRACE main MailTest:beforeMethod:82 - Enter Password
+13:01:36,178  INFO main MailTest:beforeMethod:73 - Instance mail
+13:01:36,782  INFO main DataBase:fillingInUser:21 - Connect to data
+13:01:36,801  INFO main MailTest:beforeMethod:76 - Filled in user 'Kukhta' fields
+13:01:36,827  INFO main DataBase:fillingInUser:21 - Connect to data
+13:01:36,832  INFO main MailTest:beforeMethod:78 - Filled in user 'Sidorov' fields
+13:01:36,833 TRACE main MailTest:beforeMethod:79 - Enter Login
+13:01:37,573 TRACE main MailTest:beforeMethod:82 - Enter Password
+13:02:09,897  INFO main MailTest:beforeMethod:73 - Instance mail
+13:02:09,911  INFO main DataBase:fillingInUser:21 - Connect to data
+13:02:09,914  INFO main MailTest:beforeMethod:76 - Filled in user 'Kukhta' fields
+13:02:09,922  INFO main DataBase:fillingInUser:21 - Connect to data
+13:02:09,924  INFO main MailTest:beforeMethod:78 - Filled in user 'Sidorov' fields
+13:02:09,925 TRACE main MailTest:beforeMethod:79 - Enter Login
+13:02:10,962 TRACE main MailTest:beforeMethod:82 - Enter Password
+13:02:46,523  INFO main MailTest:beforeMethod:73 - Instance mail
+13:02:46,542  INFO main DataBase:fillingInUser:21 - Connect to data
+13:02:46,550  INFO main MailTest:beforeMethod:76 - Filled in user 'Kukhta' fields
+13:02:46,565  INFO main DataBase:fillingInUser:21 - Connect to data
+13:02:46,570  INFO main MailTest:beforeMethod:78 - Filled in user 'Sidorov' fields
+13:02:46,570 TRACE main MailTest:beforeMethod:79 - Enter Login
+13:02:47,231 TRACE main MailTest:beforeMethod:82 - Enter Password
+13:03:18,597  INFO main MailTest:beforeMethod:73 - Instance mail
+13:03:18,618  INFO main DataBase:fillingInUser:21 - Connect to data
+13:03:18,621  INFO main MailTest:beforeMethod:76 - Filled in user 'Kukhta' fields
+13:03:18,627  INFO main DataBase:fillingInUser:21 - Connect to data
+13:03:18,628  INFO main MailTest:beforeMethod:78 - Filled in user 'Sidorov' fields
+13:03:18,629 TRACE main MailTest:beforeMethod:79 - Enter Login
+13:03:18,997 TRACE main MailTest:beforeMethod:82 - Enter Password
+13:07:48,112  INFO main MailTest:beforeMethod:75 - Instance mail
+13:07:48,756  INFO main DataBase:fillingInUser:21 - Connect to data
+13:07:48,811  INFO main MailTest:beforeMethod:78 - Filled in user 'Kukhta' fields
+13:07:48,821  INFO main DataBase:fillingInUser:21 - Connect to data
+13:07:48,825  INFO main MailTest:beforeMethod:80 - Filled in user 'Sidorov' fields
+13:07:48,826 TRACE main MailTest:beforeMethod:81 - Enter Login
+13:07:49,493 TRACE main MailTest:beforeMethod:84 - Enter Password
+13:10:34,000  INFO main MailTest:beforeMethod:75 - Instance mail
+13:10:34,538  INFO main DataBase:fillingInUser:21 - Connect to data
+13:10:34,586  INFO main MailTest:beforeMethod:78 - Filled in user 'Kukhta' fields
+13:10:34,594  INFO main DataBase:fillingInUser:21 - Connect to data
+13:10:34,596  INFO main MailTest:beforeMethod:80 - Filled in user 'Sidorov' fields
+13:10:34,596 TRACE main MailTest:beforeMethod:81 - Enter Login
+13:10:35,408 TRACE main MailTest:beforeMethod:84 - Enter Password
+13:13:16,275  INFO main MailTest:beforeMethod:75 - Instance mail
+13:13:17,099  INFO main DataBase:fillingInUser:21 - Connect to data
+13:13:17,155  INFO main MailTest:beforeMethod:78 - Filled in user 'Kukhta' fields
+13:13:17,167  INFO main DataBase:fillingInUser:21 - Connect to data
+13:13:17,170  INFO main MailTest:beforeMethod:80 - Filled in user 'Sidorov' fields
+13:13:17,171 TRACE main MailTest:beforeMethod:81 - Enter Login
+13:13:17,768 TRACE main MailTest:beforeMethod:84 - Enter Password
+13:14:59,548  INFO main MailTest:beforeMethod:75 - Instance mail
+13:14:59,943  INFO main DataBase:fillingInUser:21 - Connect to data
+13:14:59,972  INFO main MailTest:beforeMethod:78 - Filled in user 'Kukhta' fields
+13:14:59,979  INFO main DataBase:fillingInUser:21 - Connect to data
+13:14:59,981  INFO main MailTest:beforeMethod:80 - Filled in user 'Sidorov' fields
+13:14:59,981 TRACE main MailTest:beforeMethod:81 - Enter Login
+13:15:01,122 TRACE main MailTest:beforeMethod:84 - Enter Password
+13:15:19,750  INFO main MailTest:beforeMethod:75 - Instance mail
+13:15:19,763  INFO main DataBase:fillingInUser:21 - Connect to data
+13:15:19,768  INFO main MailTest:beforeMethod:78 - Filled in user 'Kukhta' fields
+13:15:19,775  INFO main DataBase:fillingInUser:21 - Connect to data
+13:15:19,776  INFO main MailTest:beforeMethod:80 - Filled in user 'Sidorov' fields
+13:15:19,776 TRACE main MailTest:beforeMethod:81 - Enter Login
+13:15:20,515 TRACE main MailTest:beforeMethod:84 - Enter Password
+13:16:11,285  INFO main MailTest:beforeMethod:75 - Instance mail
+13:16:11,309  INFO main DataBase:fillingInUser:21 - Connect to data
+13:16:11,324  INFO main MailTest:beforeMethod:78 - Filled in user 'Kukhta' fields
+13:16:11,334  INFO main DataBase:fillingInUser:21 - Connect to data
+13:16:11,339  INFO main MailTest:beforeMethod:80 - Filled in user 'Sidorov' fields
+13:16:11,340 TRACE main MailTest:beforeMethod:81 - Enter Login
+13:16:11,848 TRACE main MailTest:beforeMethod:84 - Enter Password
+13:16:38,156  INFO main MailTest:beforeMethod:75 - Instance mail
+13:16:38,165  INFO main DataBase:fillingInUser:21 - Connect to data
+13:16:38,170  INFO main MailTest:beforeMethod:78 - Filled in user 'Kukhta' fields
+13:16:38,174  INFO main DataBase:fillingInUser:21 - Connect to data
+13:16:38,177  INFO main MailTest:beforeMethod:80 - Filled in user 'Sidorov' fields
+13:16:38,178 TRACE main MailTest:beforeMethod:81 - Enter Login
+13:16:38,935 TRACE main MailTest:beforeMethod:84 - Enter Password
+13:17:07,343  INFO main MailTest:beforeMethod:75 - Instance mail
+13:17:07,351  INFO main DataBase:fillingInUser:21 - Connect to data
+13:17:07,353  INFO main MailTest:beforeMethod:78 - Filled in user 'Kukhta' fields
+13:17:07,360  INFO main DataBase:fillingInUser:21 - Connect to data
+13:17:07,362  INFO main MailTest:beforeMethod:80 - Filled in user 'Sidorov' fields
+13:17:07,362 TRACE main MailTest:beforeMethod:81 - Enter Login
+13:17:07,790 TRACE main MailTest:beforeMethod:84 - Enter Password
+13:17:43,962  INFO main MailTest:beforeMethod:75 - Instance mail
+13:17:43,970  INFO main DataBase:fillingInUser:21 - Connect to data
+13:17:43,975  INFO main MailTest:beforeMethod:78 - Filled in user 'Kukhta' fields
+13:17:43,986  INFO main DataBase:fillingInUser:21 - Connect to data
+13:17:43,989  INFO main MailTest:beforeMethod:80 - Filled in user 'Sidorov' fields
+13:17:43,989 TRACE main MailTest:beforeMethod:81 - Enter Login
+13:17:44,356 TRACE main MailTest:beforeMethod:84 - Enter Password
+13:19:48,405  INFO main MailTest:beforeMethod:75 - Instance mail
+13:19:48,981  INFO main DataBase:fillingInUser:21 - Connect to data
+13:19:49,025  INFO main MailTest:beforeMethod:78 - Filled in user 'Kukhta' fields
+13:19:49,032  INFO main DataBase:fillingInUser:21 - Connect to data
+13:19:49,037  INFO main MailTest:beforeMethod:80 - Filled in user 'Sidorov' fields
+13:19:49,038 TRACE main MailTest:beforeMethod:81 - Enter Login
+13:19:49,941 TRACE main MailTest:beforeMethod:84 - Enter Password
+13:20:12,185  INFO main MailTest:beforeMethod:75 - Instance mail
+13:20:13,278  INFO main DataBase:fillingInUser:21 - Connect to data
+13:20:14,355  INFO main MailTest:beforeMethod:78 - Filled in user 'Kukhta' fields
+13:20:15,117  INFO main DataBase:fillingInUser:21 - Connect to data
+13:20:15,331  INFO main MailTest:beforeMethod:80 - Filled in user 'Sidorov' fields
+13:20:15,332 TRACE main MailTest:beforeMethod:81 - Enter Login
+13:20:16,173 TRACE main MailTest:beforeMethod:84 - Enter Password
+13:21:34,821  INFO main MailTest:beforeMethod:75 - Instance mail
+13:21:34,838  INFO main DataBase:fillingInUser:21 - Connect to data
+13:21:34,845  INFO main MailTest:beforeMethod:78 - Filled in user 'Kukhta' fields
+13:21:34,850  INFO main DataBase:fillingInUser:21 - Connect to data
+13:21:34,852  INFO main MailTest:beforeMethod:80 - Filled in user 'Sidorov' fields
+13:21:34,852 TRACE main MailTest:beforeMethod:81 - Enter Login
+13:21:40,270 TRACE main MailTest:beforeMethod:84 - Enter Password
+13:22:39,555  INFO main MailTest:beforeMethod:75 - Instance mail
+13:22:39,569  INFO main DataBase:fillingInUser:21 - Connect to data
+13:22:39,574  INFO main MailTest:beforeMethod:78 - Filled in user 'Kukhta' fields
+13:22:39,582  INFO main DataBase:fillingInUser:21 - Connect to data
+13:22:39,585  INFO main MailTest:beforeMethod:80 - Filled in user 'Sidorov' fields
+13:22:39,585 TRACE main MailTest:beforeMethod:81 - Enter Login
+13:23:33,625  INFO main MailTest:beforeMethod:75 - Instance mail
+13:23:34,308  INFO main DataBase:fillingInUser:21 - Connect to data
+13:23:34,344  INFO main MailTest:beforeMethod:78 - Filled in user 'Kukhta' fields
+13:23:34,354  INFO main DataBase:fillingInUser:21 - Connect to data
+13:23:34,356  INFO main MailTest:beforeMethod:80 - Filled in user 'Sidorov' fields
+13:23:34,357 TRACE main MailTest:beforeMethod:81 - Enter Login
+13:23:34,925 TRACE main MailTest:beforeMethod:84 - Enter Password
+13:24:29,454  INFO main MailTest:beforeMethod:75 - Instance mail
+13:24:29,912  INFO main DataBase:fillingInUser:21 - Connect to data
+13:24:29,948  INFO main MailTest:beforeMethod:78 - Filled in user 'Kukhta' fields
+13:24:29,956  INFO main DataBase:fillingInUser:21 - Connect to data
+13:24:29,958  INFO main MailTest:beforeMethod:80 - Filled in user 'Sidorov' fields
+13:24:29,959 TRACE main MailTest:beforeMethod:81 - Enter Login
+13:24:30,508 TRACE main MailTest:beforeMethod:84 - Enter Password
+13:25:54,616  INFO main MailTest:beforeMethod:75 - Instance mail
+13:25:55,102  INFO main DataBase:fillingInUser:21 - Connect to data
+13:25:55,134  INFO main MailTest:beforeMethod:78 - Filled in user 'Kukhta' fields
+13:25:55,144  INFO main DataBase:fillingInUser:21 - Connect to data
+13:25:55,147  INFO main MailTest:beforeMethod:80 - Filled in user 'Sidorov' fields
+13:25:55,147 TRACE main MailTest:beforeMethod:81 - Enter Login
+13:25:55,622 TRACE main MailTest:beforeMethod:84 - Enter Password
+13:36:34,306 TRACE main Mail:loginAsCorrectUser:48 - goto main_URL
+13:38:01,026 TRACE main Mail:loginAsCorrectUser:48 - goto main_URL
+13:46:10,719 TRACE main Mail:loginAsCorrectUser:48 - goto main_URL
+13:55:19,187 TRACE main Mail:loginAsCorrectUser:47 - goto main_URL
+13:58:22,457 TRACE main Mail:loginAsCorrectUser:47 - goto main_URL
+13:59:41,722 TRACE main Mail:loginAsCorrectUser:47 - goto main_URL
+14:04:37,024 TRACE main Mail:loginAsCorrectUser:47 - goto main_URL
+14:05:56,051 TRACE main Mail:loginAsCorrectUser:47 - goto main_URL
+14:54:46,778  INFO main MailTest:beforeMethod:76 - Instance mail
+14:54:47,110  INFO main DataBase:fillingInUser:21 - Connect to data
+14:54:47,164  INFO main MailTest:beforeMethod:79 - Filled in user 'Kukhta' fields
+14:54:47,171  INFO main DataBase:fillingInUser:21 - Connect to data
+14:54:47,173  INFO main MailTest:beforeMethod:81 - Filled in user 'Sidorov' fields
+14:54:47,174 TRACE main MailTest:beforeMethod:82 - Enter Login
+14:54:47,671 TRACE main MailTest:beforeMethod:85 - Enter Password
+14:55:48,223  INFO main MailTest:beforeMethod:76 - Instance mail
+14:55:48,719  INFO main DataBase:fillingInUser:21 - Connect to data
+14:55:48,760  INFO main MailTest:beforeMethod:79 - Filled in user 'Kukhta' fields
+14:55:48,771  INFO main DataBase:fillingInUser:21 - Connect to data
+14:55:48,775  INFO main MailTest:beforeMethod:81 - Filled in user 'Sidorov' fields
+14:55:48,775 TRACE main MailTest:beforeMethod:82 - Enter Login
+14:55:50,749 TRACE main MailTest:beforeMethod:85 - Enter Password
+15:00:16,057  INFO main MailTest:beforeMethod:77 - Instance mail
+15:00:16,520  INFO main DataBase:fillingInUser:21 - Connect to data
+15:00:16,563  INFO main MailTest:beforeMethod:80 - Filled in user 'Kukhta' fields
+15:00:16,571  INFO main DataBase:fillingInUser:21 - Connect to data
+15:00:16,573  INFO main MailTest:beforeMethod:82 - Filled in user 'Sidorov' fields
+15:00:16,574 TRACE main MailTest:beforeMethod:83 - Enter Login
+15:00:17,016 TRACE main MailTest:beforeMethod:86 - Enter Password
+15:02:37,363  INFO main MailTest:beforeMethod:77 - Instance mail
+15:02:37,926  INFO main DataBase:fillingInUser:21 - Connect to data
+15:02:37,964  INFO main MailTest:beforeMethod:80 - Filled in user 'Kukhta' fields
+15:02:37,971  INFO main DataBase:fillingInUser:21 - Connect to data
+15:02:37,974  INFO main MailTest:beforeMethod:82 - Filled in user 'Sidorov' fields
+15:02:37,974 TRACE main MailTest:beforeMethod:83 - Enter Login
+15:02:38,531 TRACE main MailTest:beforeMethod:86 - Enter Password
+17:28:06,733  INFO main MailTest:beforeMethod:77 - Instance mail
+17:28:07,403  INFO main DataBase:fillingInUser:21 - Connect to data
+17:28:07,541  INFO main MailTest:beforeMethod:80 - Filled in user 'Kukhta' fields
+17:28:07,550  INFO main DataBase:fillingInUser:21 - Connect to data
+17:28:07,553  INFO main MailTest:beforeMethod:82 - Filled in user 'Sidorov' fields
+17:28:07,553 TRACE main MailTest:beforeMethod:83 - Enter Login
+17:28:08,527 TRACE main MailTest:beforeMethod:86 - Enter Password
+17:35:03,765  INFO main MailTest:beforeMethod:69 - Instance mail
+17:35:04,194  INFO main DataBase:fillingInUser:21 - Connect to data
+17:35:04,224  INFO main MailTest:beforeMethod:72 - Filled in user 'Kukhta' fields
+17:35:04,232  INFO main DataBase:fillingInUser:21 - Connect to data
+17:35:04,234  INFO main MailTest:beforeMethod:74 - Filled in user 'Sidorov' fields
+17:35:04,235 TRACE main MailTest:beforeMethod:75 - Enter Login
+17:35:04,666 TRACE main MailTest:beforeMethod:78 - Enter Password
+17:35:45,109  INFO main MailTest:beforeMethod:69 - Instance mail
+17:35:45,558  INFO main DataBase:fillingInUser:21 - Connect to data
+17:35:45,589  INFO main MailTest:beforeMethod:72 - Filled in user 'Kukhta' fields
+17:35:45,598  INFO main DataBase:fillingInUser:21 - Connect to data
+17:35:45,600  INFO main MailTest:beforeMethod:74 - Filled in user 'Sidorov' fields
+17:35:45,600 TRACE main MailTest:beforeMethod:75 - Enter Login
+17:35:46,529 TRACE main MailTest:beforeMethod:78 - Enter Password
+17:36:48,055  INFO main MailTest:beforeMethod:69 - Instance mail
+17:36:48,646  INFO main DataBase:fillingInUser:21 - Connect to data
+17:36:48,679  INFO main MailTest:beforeMethod:72 - Filled in user 'Kukhta' fields
+17:36:48,690  INFO main DataBase:fillingInUser:21 - Connect to data
+17:36:48,693  INFO main MailTest:beforeMethod:74 - Filled in user 'Sidorov' fields
+17:36:48,694 TRACE main MailTest:beforeMethod:75 - Enter Login
+17:36:49,422 TRACE main MailTest:beforeMethod:78 - Enter Password
+17:39:16,124  INFO main MailTest:beforeMethod:69 - Instance mail
+17:39:16,622  INFO main DataBase:fillingInUser:21 - Connect to data
+17:39:16,661  INFO main MailTest:beforeMethod:72 - Filled in user 'Kukhta' fields
+17:39:16,668  INFO main DataBase:fillingInUser:21 - Connect to data
+17:39:16,670  INFO main MailTest:beforeMethod:74 - Filled in user 'Sidorov' fields
+17:39:16,671 TRACE main MailTest:beforeMethod:75 - Enter Login
+17:39:17,566 TRACE main MailTest:beforeMethod:78 - Enter Password
+17:41:30,380  INFO main MailTest:beforeMethod:69 - Instance mail
+17:41:30,816  INFO main DataBase:fillingInUser:21 - Connect to data
+17:41:30,845  INFO main MailTest:beforeMethod:72 - Filled in user 'Kukhta' fields
+17:41:30,852  INFO main DataBase:fillingInUser:21 - Connect to data
+17:41:30,858  INFO main MailTest:beforeMethod:74 - Filled in user 'Sidorov' fields
+17:41:30,859 TRACE main MailTest:beforeMethod:75 - Enter Login
+17:41:31,914 TRACE main MailTest:beforeMethod:78 - Enter Password
+17:42:27,568  INFO main MailTest:beforeMethod:69 - Instance mail
+17:42:28,045  INFO main DataBase:fillingInUser:21 - Connect to data
+17:42:28,080  INFO main MailTest:beforeMethod:72 - Filled in user 'Kukhta' fields
+17:42:28,086  INFO main DataBase:fillingInUser:21 - Connect to data
+17:42:28,091  INFO main MailTest:beforeMethod:74 - Filled in user 'Sidorov' fields
+17:42:28,091 TRACE main MailTest:beforeMethod:75 - Enter Login
+17:42:29,286 TRACE main MailTest:beforeMethod:78 - Enter Password
+17:44:05,310  INFO main MailTest:beforeMethod:69 - Instance mail
+17:44:05,895  INFO main DataBase:fillingInUser:21 - Connect to data
+17:44:05,948  INFO main MailTest:beforeMethod:72 - Filled in user 'Kukhta' fields
+17:44:05,954  INFO main DataBase:fillingInUser:21 - Connect to data
+17:44:05,959  INFO main MailTest:beforeMethod:74 - Filled in user 'Sidorov' fields
+17:44:05,959 TRACE main MailTest:beforeMethod:75 - Enter Login
+17:44:07,625 TRACE main MailTest:beforeMethod:78 - Enter Password
+17:45:17,041  INFO main MailTest:beforeMethod:69 - Instance mail
+17:45:18,054  INFO main DataBase:fillingInUser:21 - Connect to data
+17:45:18,159  INFO main MailTest:beforeMethod:72 - Filled in user 'Kukhta' fields
+17:45:18,171  INFO main DataBase:fillingInUser:21 - Connect to data
+17:45:18,174  INFO main MailTest:beforeMethod:74 - Filled in user 'Sidorov' fields
+17:45:18,174 TRACE main MailTest:beforeMethod:75 - Enter Login
+17:45:19,143 TRACE main MailTest:beforeMethod:78 - Enter Password
+17:48:06,102  INFO main MailTest:beforeMethod:69 - Instance mail
+17:48:06,617  INFO main DataBase:fillingInUser:21 - Connect to data
+17:48:06,660  INFO main MailTest:beforeMethod:72 - Filled in user 'Kukhta' fields
+17:48:06,670  INFO main DataBase:fillingInUser:21 - Connect to data
+17:48:06,673  INFO main MailTest:beforeMethod:74 - Filled in user 'Sidorov' fields
+17:48:06,673 TRACE main MailTest:beforeMethod:75 - Enter Login
+17:48:07,648 TRACE main MailTest:beforeMethod:78 - Enter Password
+17:48:42,216  INFO main MailTest:beforeMethod:69 - Instance mail
+17:48:42,846  INFO main DataBase:fillingInUser:21 - Connect to data
+17:48:42,902  INFO main MailTest:beforeMethod:72 - Filled in user 'Kukhta' fields
+17:48:42,913  INFO main DataBase:fillingInUser:21 - Connect to data
+17:48:42,917  INFO main MailTest:beforeMethod:74 - Filled in user 'Sidorov' fields
+17:48:42,918 TRACE main MailTest:beforeMethod:75 - Enter Login
+17:48:44,912 TRACE main MailTest:beforeMethod:78 - Enter Password
+17:49:54,372  INFO main MailTest:beforeMethod:69 - Instance mail
+17:49:54,930  INFO main DataBase:fillingInUser:21 - Connect to data
+17:49:54,962  INFO main MailTest:beforeMethod:72 - Filled in user 'Kukhta' fields
+17:49:54,968  INFO main DataBase:fillingInUser:21 - Connect to data
+17:49:54,970  INFO main MailTest:beforeMethod:74 - Filled in user 'Sidorov' fields
+17:49:54,970 TRACE main MailTest:beforeMethod:75 - Enter Login
+17:49:55,781 TRACE main MailTest:beforeMethod:78 - Enter Password
+17:53:26,972  INFO main MailTest:beforeMethod:69 - Instance mail
+17:53:31,023  INFO main DataBase:fillingInUser:21 - Connect to data
+17:53:31,053  INFO main MailTest:beforeMethod:72 - Filled in user 'Kukhta' fields
+17:53:31,062  INFO main DataBase:fillingInUser:21 - Connect to data
+17:53:31,064  INFO main MailTest:beforeMethod:74 - Filled in user 'Sidorov' fields
+17:53:31,064 TRACE main MailTest:beforeMethod:75 - Enter Login
+17:53:43,713  INFO main MailTest:beforeMethod:69 - Instance mail
+17:53:44,226  INFO main DataBase:fillingInUser:21 - Connect to data
+17:53:44,275  INFO main MailTest:beforeMethod:72 - Filled in user 'Kukhta' fields
+17:53:44,284  INFO main DataBase:fillingInUser:21 - Connect to data
+17:53:44,287  INFO main MailTest:beforeMethod:74 - Filled in user 'Sidorov' fields
+17:53:44,287 TRACE main MailTest:beforeMethod:75 - Enter Login
+17:54:32,184  INFO main MailTest:beforeMethod:69 - Instance mail
+17:54:32,720  INFO main DataBase:fillingInUser:21 - Connect to data
+17:54:32,763  INFO main MailTest:beforeMethod:72 - Filled in user 'Kukhta' fields
+17:54:32,769  INFO main DataBase:fillingInUser:21 - Connect to data
+17:54:32,771  INFO main MailTest:beforeMethod:74 - Filled in user 'Sidorov' fields
+17:54:32,771 TRACE main MailTest:beforeMethod:75 - Enter Login
+17:54:33,584 TRACE main MailTest:beforeMethod:78 - Enter Password
+17:55:09,162  INFO main MailTest:beforeMethod:69 - Instance mail
+17:55:10,190  INFO main DataBase:fillingInUser:21 - Connect to data
+17:55:10,241  INFO main MailTest:beforeMethod:72 - Filled in user 'Kukhta' fields
+17:55:10,263  INFO main DataBase:fillingInUser:21 - Connect to data
+17:55:10,266  INFO main MailTest:beforeMethod:74 - Filled in user 'Sidorov' fields
+17:55:10,267 TRACE main MailTest:beforeMethod:75 - Enter Login
+17:55:11,260 TRACE main MailTest:beforeMethod:78 - Enter Password
+17:56:41,958  INFO main MailTest:beforeMethod:69 - Instance mail
+17:56:42,923  INFO main DataBase:fillingInUser:21 - Connect to data
+17:56:42,986  INFO main MailTest:beforeMethod:72 - Filled in user 'Kukhta' fields
+17:56:42,994  INFO main DataBase:fillingInUser:21 - Connect to data
+17:56:42,997  INFO main MailTest:beforeMethod:74 - Filled in user 'Sidorov' fields
+17:56:42,998 TRACE main MailTest:beforeMethod:75 - Enter Login
+17:56:44,419 TRACE main MailTest:beforeMethod:78 - Enter Password
+17:57:46,061  INFO main MailTest:beforeMethod:69 - Instance mail
+17:57:46,423  INFO main DataBase:fillingInUser:21 - Connect to data
+17:57:46,455  INFO main MailTest:beforeMethod:72 - Filled in user 'Kukhta' fields
+17:57:46,460  INFO main DataBase:fillingInUser:21 - Connect to data
+17:57:46,462  INFO main MailTest:beforeMethod:74 - Filled in user 'Sidorov' fields
+17:57:46,462 TRACE main MailTest:beforeMethod:75 - Enter Login
+17:57:46,975 TRACE main MailTest:beforeMethod:78 - Enter Password
+18:00:10,492  INFO main MailTest:beforeMethod:69 - Instance mail
+18:00:10,974  INFO main DataBase:fillingInUser:21 - Connect to data
+18:00:11,010  INFO main MailTest:beforeMethod:72 - Filled in user 'Kukhta' fields
+18:00:11,016  INFO main DataBase:fillingInUser:21 - Connect to data
+18:00:11,019  INFO main MailTest:beforeMethod:74 - Filled in user 'Sidorov' fields
+18:00:11,019 TRACE main MailTest:beforeMethod:75 - Enter Login
+18:00:11,492 TRACE main MailTest:beforeMethod:78 - Enter Password
+18:00:46,154  INFO main MailTest:beforeMethod:69 - Instance mail
+18:00:46,601  INFO main DataBase:fillingInUser:21 - Connect to data
+18:00:46,634  INFO main MailTest:beforeMethod:72 - Filled in user 'Kukhta' fields
+18:00:46,639  INFO main DataBase:fillingInUser:21 - Connect to data
+18:00:46,641  INFO main MailTest:beforeMethod:74 - Filled in user 'Sidorov' fields
+18:00:46,641 TRACE main MailTest:beforeMethod:75 - Enter Login
+18:00:47,446 TRACE main MailTest:beforeMethod:78 - Enter Password
+18:21:13,975  INFO main MailTest:beforeMethod:69 - Instance mail
+18:21:14,512  INFO main DataBase:fillingInUser:21 - Connect to data
+18:21:14,555  INFO main MailTest:beforeMethod:72 - Filled in user 'Kukhta' fields
+18:21:14,560  INFO main DataBase:fillingInUser:21 - Connect to data
+18:21:14,562  INFO main MailTest:beforeMethod:74 - Filled in user 'Sidorov' fields
+18:21:14,563 TRACE main MailTest:beforeMethod:75 - Enter Login
+18:21:15,505 TRACE main MailTest:beforeMethod:78 - Enter Password
+18:23:22,554  INFO main MailTest:beforeMethod:69 - Instance mail
+18:23:23,010  INFO main DataBase:fillingInUser:21 - Connect to data
+18:23:23,047  INFO main MailTest:beforeMethod:72 - Filled in user 'Kukhta' fields
+18:23:23,056  INFO main DataBase:fillingInUser:21 - Connect to data
+18:23:23,058  INFO main MailTest:beforeMethod:74 - Filled in user 'Sidorov' fields
+18:23:23,058 TRACE main MailTest:beforeMethod:75 - Enter Login
+18:23:23,597 TRACE main MailTest:beforeMethod:78 - Enter Password
+18:26:10,408  INFO main MailTest:beforeMethod:69 - Instance mail
+18:26:11,062  INFO main DataBase:fillingInUser:21 - Connect to data
+18:26:11,106  INFO main MailTest:beforeMethod:72 - Filled in user 'Kukhta' fields
+18:26:11,115  INFO main DataBase:fillingInUser:21 - Connect to data
+18:26:11,118  INFO main MailTest:beforeMethod:74 - Filled in user 'Sidorov' fields
+18:26:11,119 TRACE main MailTest:beforeMethod:75 - Enter Login
+18:26:12,015 TRACE main MailTest:beforeMethod:78 - Enter Password
+18:29:18,592  INFO main MailTest:beforeMethod:69 - Instance mail
+18:29:19,259  INFO main DataBase:fillingInUser:21 - Connect to data
+18:29:19,300  INFO main MailTest:beforeMethod:72 - Filled in user 'Kukhta' fields
+18:29:19,308  INFO main DataBase:fillingInUser:21 - Connect to data
+18:29:19,310  INFO main MailTest:beforeMethod:74 - Filled in user 'Sidorov' fields
+18:29:19,311 TRACE main MailTest:beforeMethod:75 - Enter Login
+18:29:20,255 TRACE main MailTest:beforeMethod:78 - Enter Password
+18:46:07,565  INFO main MailTest:beforeMethod:69 - Instance mail
+18:46:08,104  INFO main DataBase:fillingInUser:21 - Connect to data
+18:46:08,141  INFO main MailTest:beforeMethod:72 - Filled in user 'Kukhta' fields
+18:46:08,151  INFO main DataBase:fillingInUser:21 - Connect to data
+18:46:08,154  INFO main MailTest:beforeMethod:74 - Filled in user 'Sidorov' fields
+18:46:08,155 TRACE main MailTest:beforeMethod:75 - Enter Login
+18:46:08,993 TRACE main MailTest:beforeMethod:78 - Enter Password
+18:48:29,668  INFO main MailTest:beforeMethod:69 - Instance mail
+18:48:30,123  INFO main DataBase:fillingInUser:21 - Connect to data
+18:48:30,161  INFO main MailTest:beforeMethod:72 - Filled in user 'Kukhta' fields
+18:48:30,171  INFO main DataBase:fillingInUser:21 - Connect to data
+18:48:30,174  INFO main MailTest:beforeMethod:74 - Filled in user 'Sidorov' fields
+18:48:30,174 TRACE main MailTest:beforeMethod:75 - Enter Login
+18:48:30,963 TRACE main MailTest:beforeMethod:78 - Enter Password
+18:51:04,192  INFO main MailTest:beforeMethod:69 - Instance mail
+18:51:04,607  INFO main DataBase:fillingInUser:21 - Connect to data
+18:51:04,640  INFO main MailTest:beforeMethod:72 - Filled in user 'Kukhta' fields
+18:51:04,651  INFO main DataBase:fillingInUser:21 - Connect to data
+18:51:04,655  INFO main MailTest:beforeMethod:74 - Filled in user 'Sidorov' fields
+18:51:04,655 TRACE main MailTest:beforeMethod:75 - Enter Login
+18:51:05,527 TRACE main MailTest:beforeMethod:78 - Enter Password
+18:51:22,447  INFO main MailTest:beforeMethod:69 - Instance mail
+18:51:22,460  INFO main DataBase:fillingInUser:21 - Connect to data
+18:51:22,466  INFO main MailTest:beforeMethod:72 - Filled in user 'Kukhta' fields
+18:51:22,473  INFO main DataBase:fillingInUser:21 - Connect to data
+18:51:22,477  INFO main MailTest:beforeMethod:74 - Filled in user 'Sidorov' fields
+18:51:22,478 TRACE main MailTest:beforeMethod:75 - Enter Login
+18:52:22,002  INFO main MailTest:beforeMethod:69 - Instance mail
+18:52:22,444  INFO main DataBase:fillingInUser:21 - Connect to data
+18:52:22,478  INFO main MailTest:beforeMethod:72 - Filled in user 'Kukhta' fields
+18:52:22,487  INFO main DataBase:fillingInUser:21 - Connect to data
+18:52:22,490  INFO main MailTest:beforeMethod:74 - Filled in user 'Sidorov' fields
+18:52:22,490 TRACE main MailTest:beforeMethod:75 - Enter Login
+18:52:23,811 TRACE main MailTest:beforeMethod:78 - Enter Password
+18:52:40,795  INFO main MailTest:beforeMethod:69 - Instance mail
+18:52:40,808  INFO main DataBase:fillingInUser:21 - Connect to data
+18:52:40,810  INFO main MailTest:beforeMethod:72 - Filled in user 'Kukhta' fields
+18:52:40,820  INFO main DataBase:fillingInUser:21 - Connect to data
+18:52:40,823  INFO main MailTest:beforeMethod:74 - Filled in user 'Sidorov' fields
+18:52:40,824 TRACE main MailTest:beforeMethod:75 - Enter Login
+18:53:29,758  INFO main MailTest:beforeMethod:69 - Instance mail
+18:53:30,281  INFO main DataBase:fillingInUser:21 - Connect to data
+18:53:30,313  INFO main MailTest:beforeMethod:72 - Filled in user 'Kukhta' fields
+18:53:30,321  INFO main DataBase:fillingInUser:21 - Connect to data
+18:53:30,324  INFO main MailTest:beforeMethod:74 - Filled in user 'Sidorov' fields
+18:53:30,325 TRACE main MailTest:beforeMethod:75 - Enter Login
+18:53:30,848 TRACE main MailTest:beforeMethod:78 - Enter Password
+18:55:43,266 TRACE main Mail:loginAsCorrectUser:47 - goto main_URL
+18:59:43,447 TRACE main Mail:loginAsCorrectUser:47 - goto main_URL
+19:00:31,761  INFO main MailTest:beforeMethod:69 - Instance mail
+19:00:32,166  INFO main DataBase:fillingInUser:21 - Connect to data
+19:00:32,194  INFO main MailTest:beforeMethod:72 - Filled in user 'Kukhta' fields
+19:00:32,200  INFO main DataBase:fillingInUser:21 - Connect to data
+19:00:32,203  INFO main MailTest:beforeMethod:74 - Filled in user 'Sidorov' fields
+19:00:32,204 TRACE main MailTest:beforeMethod:75 - Enter Login
+19:00:33,077 TRACE main MailTest:beforeMethod:78 - Enter Password
+19:00:49,938  INFO main MailTest:beforeMethod:69 - Instance mail
+19:00:49,947  INFO main DataBase:fillingInUser:21 - Connect to data
+19:00:49,951  INFO main MailTest:beforeMethod:72 - Filled in user 'Kukhta' fields
+19:00:49,954  INFO main DataBase:fillingInUser:21 - Connect to data
+19:00:49,959  INFO main MailTest:beforeMethod:74 - Filled in user 'Sidorov' fields
+19:00:49,959 TRACE main MailTest:beforeMethod:75 - Enter Login
+19:01:44,138  INFO main MailTest:beforeMethod:69 - Instance mail
+19:01:44,517  INFO main DataBase:fillingInUser:21 - Connect to data
+19:01:44,540  INFO main MailTest:beforeMethod:72 - Filled in user 'Kukhta' fields
+19:01:44,548  INFO main DataBase:fillingInUser:21 - Connect to data
+19:01:44,549  INFO main MailTest:beforeMethod:74 - Filled in user 'Sidorov' fields
+19:01:44,550 TRACE main MailTest:beforeMethod:75 - Enter Login
+19:01:45,521 TRACE main MailTest:beforeMethod:78 - Enter Password
+19:01:52,771  INFO main MailTest:beforeMethod:69 - Instance mail
+19:01:52,779  INFO main DataBase:fillingInUser:21 - Connect to data
+19:01:52,782  INFO main MailTest:beforeMethod:72 - Filled in user 'Kukhta' fields
+19:01:52,791  INFO main DataBase:fillingInUser:21 - Connect to data
+19:01:52,794  INFO main MailTest:beforeMethod:74 - Filled in user 'Sidorov' fields
+19:01:52,794 TRACE main MailTest:beforeMethod:75 - Enter Login
+19:05:44,317  INFO main MailTest:beforeMethod:69 - Instance mail
+19:05:44,810  INFO main DataBase:fillingInUser:21 - Connect to data
+19:05:44,842  INFO main MailTest:beforeMethod:72 - Filled in user 'Kukhta' fields
+19:05:44,849  INFO main DataBase:fillingInUser:21 - Connect to data
+19:05:44,850  INFO main MailTest:beforeMethod:74 - Filled in user 'Sidorov' fields
+19:05:44,851 TRACE main MailTest:beforeMethod:75 - Enter Login
+19:05:45,655 TRACE main MailTest:beforeMethod:78 - Enter Password
+19:28:26,027  INFO main MailTest:beforeMethod:69 - Instance mail
+19:28:26,492  INFO main DataBase:fillingInUser:21 - Connect to data
+19:28:26,544  INFO main MailTest:beforeMethod:72 - Filled in user 'Kukhta' fields
+19:28:26,560  INFO main DataBase:fillingInUser:21 - Connect to data
+19:28:26,562  INFO main MailTest:beforeMethod:74 - Filled in user 'Sidorov' fields
+19:28:26,562 TRACE main MailTest:beforeMethod:75 - Enter Login
+19:28:27,424 TRACE main MailTest:beforeMethod:78 - Enter Password
+19:28:34,470  INFO main MailTest:beforeMethod:69 - Instance mail
+19:28:34,485  INFO main DataBase:fillingInUser:21 - Connect to data
+19:28:34,489  INFO main MailTest:beforeMethod:72 - Filled in user 'Kukhta' fields
+19:28:34,496  INFO main DataBase:fillingInUser:21 - Connect to data
+19:28:34,497  INFO main MailTest:beforeMethod:74 - Filled in user 'Sidorov' fields
+19:28:34,498 TRACE main MailTest:beforeMethod:75 - Enter Login
+19:29:41,749 TRACE main Mail:loginAsCorrectUser:47 - goto main_URL
+19:31:58,805  INFO main MailTest:beforeMethod:69 - Instance mail
+19:31:59,362  INFO main DataBase:fillingInUser:21 - Connect to data
+19:31:59,395  INFO main MailTest:beforeMethod:72 - Filled in user 'Kukhta' fields
+19:31:59,402  INFO main DataBase:fillingInUser:21 - Connect to data
+19:31:59,405  INFO main MailTest:beforeMethod:74 - Filled in user 'Sidorov' fields
+19:31:59,406 TRACE main MailTest:beforeMethod:75 - Enter Login
+19:31:59,945 TRACE main MailTest:beforeMethod:78 - Enter Password
+08:42:59,128  INFO main MailTest:beforeMethod:69 - Instance mail
+08:42:59,559  INFO main DataBase:fillingInUser:21 - Connect to data
+08:42:59,596  INFO main MailTest:beforeMethod:72 - Filled in user 'Kukhta' fields
+08:42:59,604  INFO main DataBase:fillingInUser:21 - Connect to data
+08:42:59,606  INFO main MailTest:beforeMethod:74 - Filled in user 'Sidorov' fields
+08:42:59,607 TRACE main MailTest:beforeMethod:75 - Enter Login
+08:43:00,456 TRACE main MailTest:beforeMethod:78 - Enter Password

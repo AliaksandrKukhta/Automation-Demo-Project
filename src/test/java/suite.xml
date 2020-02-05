@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+    <test name="Test1" >
+        <classes>
+            <class name="logintestbycucumber.LoginStepsPositiveTest"/>
+        </classes>
+    </test>
+    <test name="Test2">
+        <classes>
+            <class name="logintestbycucumber.LoginStepsNegativeTest"/>
+        </classes>
+    </test>
+    <test name="Test3">
+        <classes>
+            <class name="apitest.WallSendTest"/>
+        </classes>
+        <classes>
+            <class name="apitest.WallEditTest"/>
+        </classes>
+        <classes>
+            <class name="apitest.WallDeleteTest"/>
+        </classes>
+    </test>
+    <test name="Test4">
+        <classes>
+            <class name="regression.MailTest"/>
+        </classes>
+    </test>
+
+</suite>
